@@ -10,10 +10,10 @@ hostname CISCO_Switch
 # Config with notes
 ```
 #enter switch
-en
+    en
 #configure switch mode
-conf t
+    conf t
 #set hostname of switch
-hostname CISCO_Switch
+    hostname CISCO_Switch_hostname
 
 ```
