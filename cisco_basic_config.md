@@ -8,3 +8,12 @@ hostname CISCO_Switch
 ```
 
 # Config with notes
+```
+#enter switch
+en
+#configure switch mode
+conf t
+#set hostname of switch
+hostname CISCO_Switch
+
+```
