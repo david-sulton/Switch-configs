@@ -4,7 +4,7 @@
 ```
 en
 conf t 
-hostname CISCO_Switch
+hostname CISCO_Switch_2960
 ```
 
 # Config with notes
