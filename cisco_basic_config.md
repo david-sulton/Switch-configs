@@ -24,7 +24,7 @@ aaa authorization network default local
 !
 !
 aaa session-id common
-clock timezone UTC -1 0
+clock timezone UTC 0
 clock summer-time UTC recurring
 system mtu routing 1500
 !
