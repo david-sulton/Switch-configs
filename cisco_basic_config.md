@@ -11,7 +11,7 @@ logging monitor informational
 enable secret 9 <secure_password>
 enable password 7 <enable_password>
 !
-username admin privilege 15 password 7
+username admin privilege 15 password 5
 aaa new-model
 aaa local authentication default authorization default
 aaa authorization exec default local
